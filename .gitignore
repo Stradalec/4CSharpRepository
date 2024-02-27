@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+lab4 pre-alpha.sln
+lab4 pre-alpha/App.config
+lab4 pre-alpha/lab4 pre-alpha.csproj
+lab4 pre-alpha/Properties/AssemblyInfo.cs
